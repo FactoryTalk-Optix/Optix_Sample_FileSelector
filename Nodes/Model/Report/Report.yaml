@@ -1,0 +1,11 @@
+Name: Report
+Type: FolderType
+Children:
+- Name: Variable1
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: ReportPath
+  Type: BaseDataVariableType
+  DataType: ResourceUri
+  Value: ""

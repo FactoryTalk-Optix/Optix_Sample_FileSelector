@@ -1,0 +1,7 @@
+Name: SelectPdf
+Type: FolderType
+Children:
+- Name: SelectedPath
+  Type: BaseDataVariableType
+  DataType: ResourceUri
+  Value: "ns=7;%PROJECTDIR%/PDF/FTOptixOverview.pdf"
